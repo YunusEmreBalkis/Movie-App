@@ -22,7 +22,7 @@ function getfilmid(e) {
     {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "737b725379msh219e2f7870f346ap11e5bejsn9f752551c1d2",
+        "x-rapidapi-key": "API-KEY",
         "x-rapidapi-host":
           "imdb-internet-movie-database-unofficial.p.rapidapi.com",
       },
@@ -44,7 +44,7 @@ function getfilmdata(filmid) {
     {
       method: "GET",
       headers: {
-        "x-rapidapi-key": "737b725379msh219e2f7870f346ap11e5bejsn9f752551c1d2",
+        "x-rapidapi-key": "API-KEY",
         "x-rapidapi-host":
           "imdb-internet-movie-database-unofficial.p.rapidapi.com",
       },
