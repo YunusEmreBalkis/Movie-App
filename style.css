@@ -1,0 +1,16 @@
+body {
+  background-image: url(black.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.navbar {
+  margin-top: 20px;
+  background-color: aqua;
+}
+
+.a {
+  color: antiquewhite;
+}
